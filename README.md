@@ -1,8 +1,8 @@
-# [roomGPT.io](https://roomGPT.io)
+# [ai-decorator.vercel.app](https://ai-decorator.vercel.app/)
 
 This project generates designs of your room with AI.
 
-[![Room GPT](./public/screenshot.png)](https://roomGPT.io)
+[![AI Decorator](./public/screenshot.png)](https://ai-decorator.vercel.app/)
 
 ## How it works
 
