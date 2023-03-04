@@ -13,7 +13,7 @@ It uses an ML model called [ControlNet](https://github.com/lllyasviel/ControlNet
 ### Cloning the repository the local machine.
 
 ```bash
-git clone https://github.com/Nutlope/roomGPT
+git clone https://github.com/bO-05/roomGPT
 ```
 
 ### Creating a account on Replicate to get an API key.
@@ -46,4 +46,4 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/roomGPT&env=REPLICATE_API_KEY&project-name=room-GPT&repo-name=roomGPT)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bO-05/roomGPT&env=REPLICATE_API_KEY&project-name=room-GPT&repo-name=roomGPT)
