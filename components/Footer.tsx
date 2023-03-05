@@ -45,7 +45,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/bO-05/roomGPT"
+          href="https://github.com/bO-05/ai-decorator"
           className="group"
           aria-label="TaxPal on GitHub"
         >
