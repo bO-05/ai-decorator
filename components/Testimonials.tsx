@@ -1,47 +1,37 @@
-import Image from "next/image";
+import Image from 'next/image';
 
 const testimonials = [
   [
     {
-      content: "So good! I need this right now. Congrats on the launch!",
-      link: "https://twitter.com/eveporcello/status/1631438728999899136",
+      content: 'So good! I need this right now. Congrats on the launch!',
+      link: 'https://twitter.com/eveporcello/status/1631438728999899136',
       author: {
-        name: "Eve Porcello",
-        role: "Engineer & Author",
-        image: "/eve.jpg",
+        name: 'Eve Porcello',
+        role: 'Engineer & Author',
+        image: '/eve.jpg',
       },
     },
 
     {
       content:
-        "Finally! Something to help me get over my indecisiveness when decorating my house!",
-      link: "https://twitter.com/arthur_dvorkin/status/1631402865209274369",
+        'Finally! Something to help me get over my indecisiveness when decorating my house!',
+      link: 'https://twitter.com/arthur_dvorkin/status/1631402865209274369',
       author: {
-        name: "Arthur Dvorkin",
-        role: "Engineer",
-        image: "/arthur.jpg",
+        name: 'Arthur Dvorkin',
+        role: 'Engineer',
+        image: '/arthur.jpg',
       },
     },
   ],
   [
     {
       content:
-        "This is incredible, you don't need an interior designer anymore.",
-      link: "https://www.tiktok.com/@thenubians/video/7206088336044313861?q=roomgpt.io&t=1677909079689",
-      author: {
-        name: "Ade Dada",
-        role: "Startup Founder",
-        image: "/ade.jpeg",
-      },
-    },
-    {
-      content:
         "I haven't changed my room layout for 5 years, but this app may change that. Great job.",
-      link: "https://twitter.com/RobAttfield/status/1631545265281974273",
+      link: 'https://twitter.com/RobAttfield/status/1631545265281974273',
       author: {
-        name: "Rob Attfield",
-        role: "Software Engineer",
-        image: "/rob.jpg",
+        name: 'Rob Attfield',
+        role: 'Software Engineer',
+        image: '/rob.jpg',
       },
     },
   ],
@@ -49,20 +39,20 @@ const testimonials = [
     {
       content:
         "This is fantastic. I've already decided on a new wall color from a generated image and repainting it is now my weekend project.",
-      link: "https://twitter.com/Music4UsAll/status/1631622608595607552",
+      link: 'https://twitter.com/Music4UsAll/status/1631622608595607552',
       author: {
-        name: "Music",
-        role: "Some dude on the internet",
-        image: "/music.jpg",
+        name: 'Music',
+        role: 'Some dude on the internet',
+        image: '/music.jpg',
       },
     },
     {
-      content: "🤯",
-      link: "https://twitter.com/github/status/1631821360619028482",
+      content: '🤯',
+      link: 'https://twitter.com/github/status/1631821360619028482',
       author: {
-        name: "GitHub",
-        role: "The one and only",
-        image: "/github.jpg",
+        name: 'GitHub',
+        role: 'The one and only',
+        image: '/github.jpg',
       },
     },
   ],
